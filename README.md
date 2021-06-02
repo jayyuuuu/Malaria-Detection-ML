@@ -1,8 +1,8 @@
 # Malaria-Detection-ML
 
-#Malaria Detection | Machine learning | Deep learning
+Malaria Detection | Machine learning | Deep learning
 
-Important Note
+#Important Note
 To run this project on your system:
 
 Download all the project files and code.
